@@ -9,6 +9,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
+    "react-use-form-state": "^0.12.1",
     "use-http": "^0.2.5"
   },
   "scripts": {
